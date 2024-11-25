@@ -1,5 +1,7 @@
 # FPGA-4bit-counter
 
+## Overview
+
 FPGA 4bit {up, down,  johnson, graycode} counter implementation 
 
 ## Environment
@@ -17,3 +19,7 @@ FPGA 4bit {up, down,  johnson, graycode} counter implementation
 ## State Transition Diagram
 
 <img src = "https://github.com/nk12U/FPGA-4bit-counter/blob/main/image/state transition diagram.png"> 
+
+## Future Work
+
+- implement slot machine mode
